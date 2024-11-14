@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;    
+    padding: 50px;
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+.loginLink {
+    color: #007BFF;
+    text-decoration: none;
+}
